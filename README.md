@@ -2,7 +2,7 @@
 
 Um projeto simples e responsivo de **card de perfil** desenvolvido com **HTML e CSS puro**. A ideia é treinar estruturação semântica, responsividade com media queries e layout moderno usando apenas tecnologias base da web.
 
-![preview do card](./src/preview.png)
+![preview do card](https://i.postimg.cc/zGgq6xpj/cart-o.png)
 
 ---
 
@@ -33,7 +33,7 @@ Este projeto foi desenvolvido como parte do meu aprendizado em **Desenvolvimento
 ## 📂 Como visualizar o projeto
 
 ### 🔗 Acesse a versão online:
-👉 [https://seu-usuario.github.io/nome-do-repositorio](https://seu-usuario.github.io/nome-do-repositorio)
+👉 [Cartão Pessoal](https://nathaniel26.github.io/profile-card/)
 
 
 ### 💻 Rodando localmente:
